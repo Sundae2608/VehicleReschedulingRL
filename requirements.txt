@@ -1,0 +1,6 @@
+arcade~=2.6.10
+matplotlib~=3.5.1
+networkx~=2.7.1
+numpy~=1.21.5
+psutil~=5.8.0
+torch~=1.10.2
