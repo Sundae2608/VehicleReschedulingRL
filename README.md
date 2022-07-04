@@ -18,6 +18,8 @@ To see a demo simulation in action, simply run the file `main_track_generator.py
 python3 ./main_track_generator.py
 ```
 
+Video demo: https://www.youtube.com/watch?v=MzE3NwjuZRk
+
 ## Part 2: Training an RL agent
 
 We also provide a Dueling Double DQN model to allows you to train a neural network to control the behavior of the
